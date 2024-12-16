@@ -1,0 +1,6 @@
+this is my new feature document. this line has been added from dev branch
+
+This is a change in feature-branch
+This line has been added from dummyBranch
+
+adding another feature
